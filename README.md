@@ -1,5 +1,6 @@
 # About_Python
 파이썬을 공부하면서 알게된 것을 기록하는 저장소입니다.
+<br/><br/><br/><br/>
 
 # CountVectorizer
 - sklearn.feature_extraction.text.CountVectorizer
